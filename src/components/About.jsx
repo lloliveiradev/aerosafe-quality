@@ -4,7 +4,7 @@ import aboutImg2 from '../../public/about-2.jpg';
 
 export default function About() {
     return (
-        <section className='py-16 bg-gray-100'>
+        <section className='py-16 bg-gray-100' id='about'>
             <div className='container px-4 mx-auto'>
                 <div className='grid-cols-1 lg:grid-cols-2 gap-12 items-center'>
                     <div className='relative' data-aos="fade-up-right" data-aos-duration="300">
@@ -31,7 +31,7 @@ export default function About() {
 
                     <div className='space-y-6 mt-10' data-aos="fade-up-left" data-aos-duration="300">
                         <h2 className='text-4xl font-bold'>SOBRE</h2>
-                        <p className='lg:text-lg mt-4 text-justify'>
+                        <p className='text-lg mt-4 text-justify'>
                             Bem-vindo à <strong>AeroSafe Quality</strong>, sua parceira em assessoria e consultoria especializada em qualificações e
                             validações. Com um compromisso inabalável com a excelência e a conformidade, atuamos como referência no
                             suporte a indústrias farmacêuticas, cosméticas, veterinárias, alimentícias, farmácias de manipulação e

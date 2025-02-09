@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 export default function Hero() {
     return (
-        <section className="bg-sky-700 text-white relative overflow-hidden">
+        <section className="bg-sky-900 text-white relative overflow-hidden" id='home'>
             <div>
                 <Image
                     src={heroImg}
