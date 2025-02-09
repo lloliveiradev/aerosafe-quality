@@ -1,6 +1,6 @@
 import { Check } from 'lucide-react';
 import Image from 'next/image';
-import missao from '../../public/missao.jpg';
+import missao from '../../public/images/missao.jpg';
 
 const valores = [
     { title: 'Excelência Técnica', description: 'Buscamos constantemente o aprimoramento e a atualização de nossos conhecimentos para oferecer soluções de alta qualidade.' },

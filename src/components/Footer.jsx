@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import logo from '../../public/full_logo.png';
+import logo from '../../public/images/full_logo.png';
 import { XLogo, YoutubeLog, InstagramLogo, FacebookLogo, LinkedinLogo, YoutubeLogo } from '@phosphor-icons/react/dist/ssr';
 
 export default function Footer() {

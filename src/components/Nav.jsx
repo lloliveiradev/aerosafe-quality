@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import Image from "next/image";
-import logo from "../../public/full_logo.png";
+import logo from "../../public/images/full_logo.png";
 
 export default function Navbar() {
     const [isMobile, setIsMobile] = useState(false);

@@ -3,13 +3,13 @@
 import useEmblaCarousel from 'embla-carousel-react';
 import { WhatsappLogo } from '@phosphor-icons/react/dist/ssr';
 import Image from 'next/image';
-import airConditioning from '../../public/air-conditioning.jpg';
-import cleanRoom from '../../public/clean-room.jpg';
-import compressedAir from '../../public/compressed-air.jpg';
-import lab3 from '../../public/analysis-3.jpg';
-import lab2 from '../../public/analysis-2.jpg';
-import project from '../../public/project.jpg';
-import techAir from '../../public/tech-air.jpg';
+import airConditioning from '../../public/images/air-conditioning.jpg';
+import cleanRoom from '../../public/images/clean-room.jpg';
+import compressedAir from '../../public/images/compressed-air.jpg';
+import lab3 from '../../public/images/analysis-3.jpg';
+import lab2 from '../../public/images/analysis-2.jpg';
+import project from '../../public/images/project.jpg';
+import techAir from '../../public/images/tech-air.jpg';
 import { AirVent, BookCheck, Fan, FireExtinguisher, FlaskConical, Pill, ShieldCheck, Clock, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const services = [

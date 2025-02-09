@@ -1,8 +1,8 @@
-import balometer from '../../public/balometer.jpg';
-import bomb from '../../public/bomb.jpg';
-import counter from '../../public/counter.jpg';
-import particles from '../../public/particles.jpg';
-import manometer from '../../public/manometer.png';
+import balometer from '../../public/images/balometer.jpg';
+import bomb from '../../public/images/bomb.jpg';
+import counter from '../../public/images/counter.jpg';
+//import particles from '../../public/images/particles.jpg';
+import manometer from '../../public/images/manometer.png';
 import Image from 'next/image';
 
 const equipments = [
